@@ -69,10 +69,4 @@ public class SolutionKakaoInternship1 {
 
         return answer;
     }
-
-    public static void main(String[] args) {
-        int tc1Result = solution(new String[]{"muzi", "ryan", "frodo", "neo"}, new String[]{"muzi frodo", "muzi frodo", "ryan muzi", "ryan muzi", "ryan muzi", "frodo muzi", "frodo ryan", "neo muzi"});
-        System.out.println(tc1Result); // 2
-    }
-
 }
