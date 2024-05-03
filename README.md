@@ -13,4 +13,4 @@
 - 자세한 것은 [여기](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)를 참고
 
 ### 🤔 solved problems
-- NOT YET
+- [x] [프로그래머스 - 2024 KAKAO WINTER INTERNSHIP](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
