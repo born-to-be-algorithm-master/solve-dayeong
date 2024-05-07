@@ -13,4 +13,5 @@
 - 자세한 것은 [여기](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)를 참고
 
 ### 🤔 solved problems
-- [x] [프로그래머스 - 2024 KAKAO WINTER INTERNSHIP](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
+- [x] [프로그래머스 - 2024 KAKAO WINTER INTERNSHIP : Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
+- [x] [백준 - 1012번 문제](https://www.acmicpc.net/problem/1012)
