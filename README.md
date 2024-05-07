@@ -15,3 +15,5 @@
 ### 🤔 solved problems
 - [x] [프로그래머스 - 2024 KAKAO WINTER INTERNSHIP : Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
 - [x] [백준 - 1012번 문제](https://www.acmicpc.net/problem/1012)
+- [ ] [프로그래머스 - PCCP 기출 문제 : Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
+- [ ] [백준 - 20529번 문제](https://www.acmicpc.net/problem/20529)
