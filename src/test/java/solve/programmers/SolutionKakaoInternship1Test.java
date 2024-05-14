@@ -3,6 +3,7 @@ package solve.programmers;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+import solve.programmers.kakaoInternship.SolutionKakaoInternship1;
 
 class SolutionKakaoInternship1Test {
 

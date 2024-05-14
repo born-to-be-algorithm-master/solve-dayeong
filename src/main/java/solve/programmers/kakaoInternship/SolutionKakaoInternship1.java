@@ -1,4 +1,4 @@
-package solve.programmers;
+package solve.programmers.kakaoInternship;
 
 import java.util.*;
 
