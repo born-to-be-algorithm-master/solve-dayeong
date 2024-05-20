@@ -17,3 +17,5 @@
 - [x] [백준 - 1012번 문제](https://www.acmicpc.net/problem/1012)
 - [x] [프로그래머스 - PCCP 기출 문제 : 붕대 감기, Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
 - [x] [백준 - 20529번 문제](https://www.acmicpc.net/problem/20529)
+- [ ] [프로그래머스 - PCCP 기출 문제 : 석유 시추, Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/250136) >> 효율성 테스트 케이스 실패, 개선 필요
+- [x] [백준 - 1107번 문제](https://www.acmicpc.net/problem/1107)
