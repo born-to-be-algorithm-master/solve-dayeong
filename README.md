@@ -21,3 +21,4 @@
 - [x] [백준 - 1107번 문제](https://www.acmicpc.net/problem/1107)
 - [x] [프로그래머스 - PCCP 기출 문제 : 아날로그 시계, Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/250135)
 - [x] [백준 - 10026번 문제](https://www.acmicpc.net/problem/10026)
+- [ ] [백준 - 1374번 문제](https://www.acmicpc.net/problem/1374) >> 시간 초과, 개선 필요
